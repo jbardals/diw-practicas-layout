@@ -49,11 +49,6 @@ Las características del diseño de esta página son:
   - La lista que explica el contenido del libro se muestra como un texto a tres columnas del mismo ancho.
 Puedes modificar el código HTML proporcionado para añadir los identificadores y clases que necesites. También puedes añadir etiquetas <div> para definir elementos contenedores en la página.
 
-1) Aspecto de la web a pantalla completa:
-
-![img_pantalla_completa](../imgs/completa.png)
-
-
 
 
 
