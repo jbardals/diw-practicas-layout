@@ -76,9 +76,14 @@ A partir de la página web que se te proporciona en [ej05_Diseño_elastico](ej05
 ![ejerc4](../imgs/ejerc4.png)
 
 Las características del diseño de esta página son:
+
     - Un diseño elástico centrado con un ancho de 60 em.
+	
     - El encabezado de nivel 1 centrado.
+	
     - El contenido principal de la página se organiza en dos columnas, una de 16 em de ancho y la otra el espacio restante de 44 em.
+	
     - La lista que explica el contenido del libro se muestra como un texto a tres columnas del mismo ancho.
+	
 
 Puedes modificar el código HTML proporcionado para añadir los identificadores y clases que necesites. También puedes añadir etiquetas <div> para definir elementos contenedores en la página.
