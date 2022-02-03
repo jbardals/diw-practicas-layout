@@ -77,6 +77,11 @@ A partir de la página web que se te proporciona en [ej05_Diseño_elastico](ej05
 
 Las características del diseño de esta página son:
 
+	  - Un diseño centrado con un ancho del 80%.
+  - El encabezado de nivel 1 centrado.
+  - El contenido principal de la página se organiza en dos columnas, una de 25% de ancho y la otra el espacio restante de 75%.
+  - La lista que explica el contenido del libro se muestra como un texto a tres columnas del mismo ancho.
+
     - Un diseño elástico centrado con un ancho de 60 em.
 	
     - El encabezado de nivel 1 centrado.
