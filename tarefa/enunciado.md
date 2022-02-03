@@ -17,14 +17,15 @@ Aspectos a tener en cuenta:
   - Redondear la imagen de perfil
 
 
-## Ej2. GRID y MQ (**xxx pts**)
+## Ej2. GRID y MQ (**2 pts**)
 
-Partiendo del código fuente en la carpeta [ej02_gridMQ](ej02_gridMQ)
-Podemos redefinir con grid la posición de los elementos usando también Media Queries. Definir las siguientes áreas de cuadrícula por defecto (aplicando el principio Mobile First) 
+Partiendo del código fuente en la carpeta [ej02_gridMQ](ej02_gridMQ)podemos redefinir con grid la posición de los elementos usando también Media Queries.
+Definir las siguientes áreas de cuadrícula por defecto (aplicando el principio Mobile First) 
 
 ![ej02_MF](../imgs/ej02_MF.png)
 
 A continuación, redefine las áreas de cuadrícula y la posición de los elementos en esa cuadrícula con consultas de medios según las siguientes especificaciones:
+
 Para anchura entre 500 y 600px: (la barra lateral ocupa un 20% anchura disponible)
 
 
@@ -35,7 +36,7 @@ Para anchura superior a 600px: (anchura de barras laterales 120px cada una, sepa
 ![ej02_DF](../imgs/ej02_DF.png)
 
 
-## Ej3. DE FLEX A GRID (**1 pt**)
+## Ej3. DE FLEX A GRID (**2 pts**)
 
 En la carpeta [ej03_flexbox_grid](ej03_flexbox_grid) tienes el layout de una página implementado con FlexBox.
 Consiste básicamente en un header con varios links, una sección principal, un sidebar y un footer, todos dentro de un contenedor.
@@ -75,9 +76,9 @@ A partir de la página web que se te proporciona en [ej05_Diseño_elastico](ej05
 ![ejerc4](../imgs/ejerc4.png)
 
 Las características del diseño de esta página son:
-    • Un diseño elástico centrado con un ancho de 60 em.
-    • El encabezado de nivel 1 centrado.
-    • El contenido principal de la página se organiza en dos columnas, una de 16 em de ancho y la otra el espacio restante de 44 em.
-    • La lista que explica el contenido del libro se muestra como un texto a tres columnas del mismo ancho.
+    - Un diseño elástico centrado con un ancho de 60 em.
+    - El encabezado de nivel 1 centrado.
+    - El contenido principal de la página se organiza en dos columnas, una de 16 em de ancho y la otra el espacio restante de 44 em.
+    - La lista que explica el contenido del libro se muestra como un texto a tres columnas del mismo ancho.
 
 Puedes modificar el código HTML proporcionado para añadir los identificadores y clases que necesites. También puedes añadir etiquetas <div> para definir elementos contenedores en la página.
