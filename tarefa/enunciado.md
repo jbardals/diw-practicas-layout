@@ -35,8 +35,23 @@ Para anchura superior a 600px: (anchura de barras laterales 120px cada una, sepa
 ![ej02_DF](../imgs/ej02_DF.png)
 
 
+## Ej3. DE FLEX A GRID (**1 pt**)
 
-## Ej3. DISEÑO LÍQUIDO (**1 pt**)
+En la carpeta [ej03_flexbox_grid](ej03_flexbox_grid) tienes el layout de una página implementado con FlexBox.
+Consiste básicamente en un header con varios links, una sección principal, un sidebar y un footer, todos dentro de un contenedor.
+El ejercicio consiste en usar Grid en lugar de Flex para conseguir el mismo layout.
+Tened en cuenta lo siguiente:
+  - Usar grid-areas
+  - Mantener la misma alineación para los elementos del header:
+     - lista de navegación justificada al principio
+	 - botón justificado al final
+	 - para alinear los items de la lista tendrás que crear otro grid
+  - Mantener el comportamiento "responsive" de la web:
+     - con una mediaquery con un breakpoint en 660px
+	 
+
+	 
+## Ej4. DISEÑO LÍQUIDO (**1 pt**)
 
 A partir de la página web que se te proporciona en [ej04_Diseño_liquido](ej04_Diseño_liquido), debes escribir las reglas CSS necesarias para lograr una página web que tenga el mismo aspecto que la siguiente imagen:
 
