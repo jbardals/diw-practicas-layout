@@ -1,5 +1,5 @@
 ﻿
-## Ej1. FLEX (**xxx pts**)
+## Ej1. FLEX (**2 pts**)
 
 Realizar los cambios necesarios en el código fuente en la carpeta [ej01_flex](ej01_flex) para crear un componente de barra lateral reutilizable con un menú de navegación por los datos de un perfil de redes sociales como el siguiente:
 
@@ -52,7 +52,7 @@ Tened en cuenta lo siguiente:
 	 
 
 	 
-## Ej4. DISEÑO LÍQUIDO (**1 pt**)
+## Ej4. DISEÑO LÍQUIDO (**2 pt**)
 
 A partir de la página web que se te proporciona en [ej04_Diseño_liquido](ej04_Diseño_liquido), debes escribir las reglas CSS necesarias para lograr una página web que tenga el mismo aspecto que la siguiente imagen:
 
@@ -69,7 +69,7 @@ Las características del diseño de esta página son:
 
 
 
-## Ej5. DISEÑO ELÁSTICO (**3 pts**)
+## Ej5. DISEÑO ELÁSTICO (**2 pts**)
 
 
 A partir de la página web que se te proporciona en [ej05_Diseño_elastico](ej05_Diseño_elastico), debes escribir las reglas CSS necesarias para lograr una página web que tenga el mismo aspecto que la siguiente imagen:
@@ -78,10 +78,10 @@ A partir de la página web que se te proporciona en [ej05_Diseño_elastico](ej05
 
 Las características del diseño de esta página son:
 
-    - Un diseño elástico centrado con un ancho de 60 em.
-    - El encabezado de nivel 1 centrado.
-    - El contenido principal de la página se organiza en dos columnas, una de 16 em de ancho y la otra el espacio restante de 44 em.
-    - La lista que explica el contenido del libro se muestra como un texto a tres columnas del mismo ancho.
+  - Un diseño elástico centrado con un ancho de 60 em.
+  - El encabezado de nivel 1 centrado.
+  - El contenido principal de la página se organiza en dos columnas, una de 16 em de ancho y la otra el espacio restante de 44 em.
+  - La lista que explica el contenido del libro se muestra como un texto a tres columnas del mismo ancho.
 	
 
 Puedes modificar el código HTML proporcionado para añadir los identificadores y clases que necesites. También puedes añadir etiquetas ``<div>`` para definir elementos contenedores en la página.
