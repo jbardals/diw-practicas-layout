@@ -3,9 +3,7 @@
 
 ## Alcance de la tarea
 
-* Distinguir y utilizar correctamente **transiciones** y **animaciones** para darle dinamismo a los contenidos de las páginas web 
-* Utilizar **media queries** para generar estilos adaptados a pantallas de diferentes dimensiones
-* Utilizar algunas propiedades avanzadas de **background** (fondos)
+* Implementar **métodos de diseño de layout** (líquido, adaptativo, responsivo) mediante el uso de **técnicas como Flexbox y Grid**
   
 
 ## Pasos previos
